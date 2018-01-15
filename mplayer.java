@@ -1,4 +1,4 @@
-package amedia;
+package mplayer;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;
@@ -9,7 +9,7 @@ import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 
 
-public class Amedia extends Application {
+public class mplayer extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
